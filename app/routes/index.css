@@ -1,0 +1,12 @@
+.box {
+  border: 2px solid hsl(0, 100%, 50%);
+  padding: 2px;
+}
+
+a {
+  display: block;
+  margin: 2px;
+  border: 1px dotted blue;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImluZGV4LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiJpbmRleC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuYm94IHtcbiAgYm9yZGVyOiAycHggc29saWQgaHNsKDAsIDEwMCUsIDUwJSk7XG4gIHBhZGRpbmc6IDJweDtcbn1cblxuYSB7XG4gIGRpc3BsYXk6IGJsb2NrO1xuICBtYXJnaW46IDJweDtcbiAgYm9yZGVyOiAxcHggZG90dGVkIGJsdWU7XG59XG4iXX0= */
